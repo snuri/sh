@@ -11,6 +11,14 @@
   width: 400px;
 }
 
+.patron-button:hover {
+  background-image: url("../../img/patron_hover.png");
+}
+
+.download-button:hover {
+  background-image: url("../../img/download_hover.png");
+}
+
 .download-button {
   background-image: url("../../img/download.png");
   margin-left: 75px;
