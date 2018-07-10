@@ -1,0 +1,70 @@
+.main {
+  display: flex;
+  justify-content: center;
+  margin-top: -104px;
+  margin-bottom: 30px;
+}
+
+.patron-button {
+  background-image: url("../../img/patron.png");
+  margin-right: 20px;
+  width: 400px;
+}
+
+.download-button {
+  background-image: url("../../img/download.png");
+  margin-left: 75px;
+  width: 350px;
+  margin-top: -20px;
+}
+
+.project-relation {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1012px;
+  margin: 0 auto;
+}
+
+.patron-button, .download-button {
+  background-repeat: no-repeat;
+  height: 172px;
+  display: inline-block;
+}
+
+.text-reasons, .text-game {
+  color: #fff;
+}
+
+.text-reasons {
+  font-size: 20px;
+  line-height: 2.5;
+}
+
+.text-game {
+  font-size: 26px;
+  text-align: center;
+  margin-top: -85px;
+  margin-left: 40px;
+
+}
+
+.text-story {
+  color: #999999;
+  font-size: 20px;
+  font-style: italic;
+  text-align: right;
+}
+
+.color-violet {
+  color: #bc00c2;
+}
+
+.text-delimiter {
+  margin-top: -70px;
+  margin-left: 20px;
+  display: block;
+}
+
+.text-padding {
+  padding-left: 15px;
+}
